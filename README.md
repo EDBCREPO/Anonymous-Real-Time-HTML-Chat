@@ -1,6 +1,5 @@
 # Surviving the Shadows: Building a Anonymous Real-Time HTML Chat
-
-https://github.com/user-attachments/assets/b9a6aa1c-da18-4774-b809-624bdb59b860
+![33](https://github.com/user-attachments/assets/1c6d18e0-ea3a-47ac-b5c1-815b21d10257)
 
 ## dependencies:
 ```bash
